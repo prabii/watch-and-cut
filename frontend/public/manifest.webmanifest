@@ -1,0 +1,10 @@
+{
+  "name": "Watch-and-Cut",
+  "short_name": "WatchCut",
+  "description": "Describe the reel you want. Gemma 4 proposes the cut; keep it or undo it in one tap.",
+  "start_url": "/app.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
